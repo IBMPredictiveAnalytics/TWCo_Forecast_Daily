@@ -13,8 +13,8 @@ This implementation allows you to connect to APIs provided by The Weather Compan
 
 ---
 # Reference
-[The Weather Company](http://www.theweathercompany.com/)
-[Historical Weather](http://goo.gl/AoxGl3)
+[The Weather Company](http://www.theweathercompany.com/)  
+[TWCo Forecast Daily](http://goo.gl/AoxGl3)
 
 ---
 #Requirements
