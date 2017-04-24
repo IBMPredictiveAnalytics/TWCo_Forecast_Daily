@@ -18,20 +18,18 @@ This implementation allows you to connect to APIs provided by The Weather Compan
 [TWCo Forecast Daily](http://goo.gl/AoxGl3)
 
 ---
-#Requirements
+# Requirements
 
 - IBM SPSS Modeler v18
 - R Essentials for SPSS Modeler plugin 
 
 More information here: [IBM Predictive Extensions][2]
 
----
-Examples stream and data
-----
-Example folder include example stream and sample data
+# Troube Shoot
+[TWC Extension Trouble Shoot](https://github.com/IBMPredictiveAnalytics/TWCo_Document/blob/master/twc%20extension%20trouble%20shoot.md)
 
 ---
-License
+# License
 ----
 
 [Apache 2.0][1]
